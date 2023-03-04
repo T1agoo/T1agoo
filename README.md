@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T1agoo
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning cyber security
+- 🌱 I’m currently learning cybersecurity
 - 📫 How to reach me, into my bio
 
 
